@@ -89,6 +89,14 @@ export default function Portfolio() {
               >
                 LinkedIn
               </a>
+
+              <a
+                href="/RajeshJethwa.pdf"
+                download
+                className="rounded-2xl border border-cyan-500 px-6 py-3 text-cyan-400 transition hover:bg-cyan-500 hover:text-black"
+              >
+                Download Resume
+              </a>
             </div>
           </div>
 
