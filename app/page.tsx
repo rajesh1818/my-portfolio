@@ -68,7 +68,7 @@ export default function Portfolio() {
             </h1>
 
             <p className="mb-8 text-lg leading-relaxed text-zinc-300">
-              Software Engineer with 4+ years of experience building scalable backend systems,
+              Software Engineer with 5+ years of experience building scalable backend systems,
               cloud-native applications, distributed data pipelines, and AI-driven solutions using
               Python, Flask, .NET, PySpark, and Google Cloud Platform.
             </p>
