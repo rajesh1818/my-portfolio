@@ -82,7 +82,7 @@ export default function Portfolio() {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/rajesh-jethwa-40284b175/"
+                href="https://www.linkedin.com/in/rajesh-jethwa-022003194/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-2xl border border-zinc-700 px-6 py-3 transition hover:border-cyan-400"
